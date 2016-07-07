@@ -8,8 +8,8 @@ Il serait bien d'avoir une première version avant le 24 aout 2016. Voir "[Miles
 
 ## Table des matières
 1. Syntaxe JavaScript de base
-  1. [Variables](#user-content-variables)
-  1. [Fonction](#user-content-fonctions)
+  1. [Variables](#variables)
+  1. [Fonction](#fonctions)
   1. à venir...
 1. Syntaxe JavaScript avancé
   1. à venir...
