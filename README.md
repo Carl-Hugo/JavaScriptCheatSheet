@@ -15,6 +15,7 @@ Pour l'instant je vais ajouter les blocs de syntaxe JavaScript dans le fichier a
 
 ## Syntaxe JavaScript de base
 ### Variables
+Brève explication portant sur les variables ici...
 ```JavaScript
 var nom_de_la_variable;
 var nom_de_la_variable = "valeur de type string"; // string
