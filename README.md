@@ -3,7 +3,7 @@ Si vous avez des idées de syntaxe à ajouter à la cheat sheet, n'hésitez pas 
 
 Pour l'instant je vais ajouter les blocs de syntaxe JavaScript dans le fichier actuel et si le besoin s'en fait sentir, je ferai une réorganisation du "repo". Vous pouvez partager votre opinion sur l'organisation du "repo" en créant une nouvelle discussion.
 
-**Roadmap**: Il serait bien d'avoir une première version avant le 24 aout 2016. Voir "[Milestones](https://github.com/Carl-Hugo/JavaScriptCheatSheet/milestones)".
+**Roadmap**: Il serait bien d'avoir une première version avant le 11 décembre 2016. Voir "[Milestones](https://github.com/Carl-Hugo/JavaScriptCheatSheet/milestones)".
 
 ## Table des matières
 1. Syntaxe JavaScript de base
